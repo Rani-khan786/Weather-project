@@ -14,5 +14,7 @@ Technologies Used
 Frontend: HTML, CSS, JAVASCRIPT
 API: OpenWeatherMap
 
-# Project is live :- https://6964ef789fde5ac3778b0e5d--gleaming-kitten-f34611.netlify.app/
+# Project is live :-
+
+https://6964ef789fde5ac3778b0e5d--gleaming-kitten-f34611.netlify.app/
 
